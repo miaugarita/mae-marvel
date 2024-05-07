@@ -1,0 +1,7 @@
+Marvel Comics API information
+
+public key:
+109b9fa590a7e6b276addba72df08058
+
+private key:
+b3c9e2f253531ddf5ccce62892b5b81907e85daa
